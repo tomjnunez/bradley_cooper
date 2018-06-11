@@ -26,7 +26,8 @@ Your HTML/CSS layout MUST look like the image below, but your creativity can inc
 
 ### Base Requirements
 
-  - Basic static site setup with `index.html` and `styles.css`
+  - Only work for one hour!
+  - Basic static site setup with `index.html` and `styles.css`, plus a screenshot of your work in a browser
   - Submit your work through a PR
 
 ---
