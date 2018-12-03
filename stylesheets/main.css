@@ -1,0 +1,57 @@
+.main_container{
+  display: flex;
+  width: 100%;
+}
+
+.grid_container{
+  display: grid;
+  width: 100%;
+}
+
+.top_row {
+  display: grid;
+  grid-template-columns: 66% 34%;
+  text-align: center;
+  align-items: center;
+  border: 2px black solid;
+}
+
+.box{
+  border: 2px black solid;
+  height: 100%;
+  width: 100%
+}
+
+.title_box p{
+  text-align: left;
+  margin-left: 110px;
+}
+
+.box_grid{
+  display: grid;
+  grid-template-columns: 33% 33% 33.5%;
+  align-items: start;
+  width: 100%;
+  text-align: center;
+}
+
+.profile {
+  border: 2px black solid;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+
+.title_box{
+  color: red;
+}
+
+.big_picture{
+  width: 50%;
+}
+
+.big_picture img{
+  width: 100%;
+  height: 100%;
+  float: left;
+}
